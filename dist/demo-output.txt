@@ -1,0 +1,8 @@
+Text Toolkit 1.0.0 Demo
+Original:   Java   libraries are reusable. Java is portable.  
+Normalized: Java libraries are reusable. Java is portable.
+Title Case: Java Libraries Are Reusable. Java Is Portable.
+Word Count: 7
+'Java' Occurrences: 2
+Palindrome check ('Never odd or even'): true
+Word Frequency: {java=2, libraries=1, are=1, reusable=1, is=1, portable=1}
